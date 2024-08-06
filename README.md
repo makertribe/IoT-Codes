@@ -32,8 +32,6 @@ Each project directory contains code and instructions for setting up and running
 Contributing
 We welcome contributions from the community. If you would like to contribute, please fork the repository and submit a pull request. Make sure to follow our contributing guidelines.
 
-License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
 For any questions or inquiries, please contact us at hello@makerstribe.in
