@@ -1,0 +1,11 @@
+void setup() {          // initialization
+  pinMode(13, OUTPUT); //change the pin accordingly 
+}
+
+void loop(){                 // loop for blinking
+  digitalWrite(13,HIGH);     // High means ON
+  delay(1000);
+  digitalWrite(13,LOW);      // LOW means OFF
+
+  delay(1000);
+}
